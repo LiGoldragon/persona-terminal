@@ -25,3 +25,9 @@ work and keep Git as the remote/storage compatibility layer.
 Domain values are typed, behavior lives on the types that own the data, errors
 use this crate's typed error enum, and reusable verbs are methods rather than
 free functions.
+
+## Protos estate status
+
+Stack: correct-new destination
+Status: active component, current checkout legacy-wired
+This checkout is not proof of correct-new adoption.
